@@ -1,0 +1,75 @@
+CREATE TABLE [dbo].[Ingrediente] (
+    [Id_ingrediente] INT            NOT NULL,
+    [nombre]         NVARCHAR (50)  NOT NULL,
+    [cantidad]       DECIMAL (9, 2) NOT NULL,
+    [unidad]         NVARCHAR (50)  NOT NULL,
+    [precio]         DECIMAL (9, 2) NOT NULL,
+    [tipo]           NVARCHAR (50)  NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id_ingrediente] ASC)
+);
+CREATE TABLE [dbo].[Receta] (
+    [receta_id]          INT             NOT NULL,
+    [tiempo_preparacion] DECIMAL (9, 2)  NOT NULL,
+    [nombre_receta]      NVARCHAR (50)   NOT NULL,
+    [descripcion_receta] NVARCHAR (4000) NOT NULL,
+	[url_video] NVARCHAR (4000) ,
+    PRIMARY KEY CLUSTERED ([receta_id] ASC)
+);
+CREATE TABLE [dbo].[Usuario] (
+    [usuario_id]         INT           NOT NULL,
+    [nombre]             NVARCHAR (50) NOT NULL,
+    [apellidos]          NVARCHAR (50) NOT NULL,
+    [correo_electronico] NVARCHAR (50) NOT NULL,
+    [contraseña]         NVARCHAR (50) NOT NULL,
+    PRIMARY KEY CLUSTERED ([usuario_id] ASC)
+);
+CREATE TABLE [dbo].[Administrador] (
+    [admin_id]           INT           NOT NULL,
+    [nombre]             NVARCHAR (50) NOT NULL,
+    [apellidos]          NVARCHAR (50) NOT NULL,
+    [correo_electronico] NVARCHAR (50) NOT NULL,
+    [contraseña]         NVARCHAR (50) NOT NULL,
+    PRIMARY KEY CLUSTERED ([admin_id] ASC)
+);
+CREATE TABLE [dbo].[Valoracion] (
+    [valoracion_id] INT             NOT NULL,
+    [puntuacion]    INT             NOT NULL,
+    [descripcion]   NVARCHAR (1000) NULL,
+    [usuario_id]    INT             NOT NULL,
+    [receta_id]     INT             NOT NULL,
+    PRIMARY KEY CLUSTERED ([valoracion_id] ASC),
+    FOREIGN KEY ([usuario_id]) REFERENCES [dbo].[Usuario] ([usuario_id]),
+    FOREIGN KEY ([receta_id]) REFERENCES [dbo].[Receta] ([receta_id])
+);
+CREATE TABLE [dbo].[Ingrediente_tiene_Receta] (
+    [ingrediente_id] INT NOT NULL,
+    [receta_id]      INT NOT NULL,
+    PRIMARY KEY CLUSTERED ([ingrediente_id] ASC, [receta_id] ASC),
+    FOREIGN KEY ([ingrediente_id]) REFERENCES [dbo].[Ingrediente] ([Id_ingrediente]),
+    FOREIGN KEY ([receta_id]) REFERENCES [dbo].[Receta] ([receta_id])
+);
+CREATE TABLE [dbo].[Usuario_compra_ingrediente] (
+    [ingrediente_id] INT  NOT NULL,
+    [usuario_id]     INT  NOT NULL,
+    [fec_compra]     DATE NOT NULL,
+    [fec_cad]        DATE NOT NULL,
+    [Cantidad]       INT  DEFAULT ((1)) NULL,
+    PRIMARY KEY CLUSTERED ([ingrediente_id] ASC, [usuario_id] ASC),
+    FOREIGN KEY ([ingrediente_id]) REFERENCES [dbo].[Ingrediente] ([Id_ingrediente]),
+    FOREIGN KEY ([usuario_id]) REFERENCES [dbo].[Usuario] ([usuario_id])
+);
+CREATE TABLE [dbo].[Usuario_compraHabitual_Ingrediente] (
+    [ingrediente_id] INT  NOT NULL,
+    [usuario_id]     INT  NOT NULL,
+    [fec_compra]     DATE NOT NULL,
+    [fec_cad]        DATE NOT NULL,
+    PRIMARY KEY CLUSTERED ([ingrediente_id] ASC, [usuario_id] ASC),
+    FOREIGN KEY ([ingrediente_id]) REFERENCES [dbo].[Ingrediente] ([Id_ingrediente]),
+    FOREIGN KEY ([usuario_id]) REFERENCES [dbo].[Usuario] ([usuario_id])
+);
+CREATE TABLE [dbo].[Historico_compra] (
+    [ingrediente_id] INT  NOT NULL,
+    [usuario_id]     INT  NOT NULL,
+    [fec_compra]     DATE NOT NULL,
+    [fec_cad]        DATE NOT NULL
+);

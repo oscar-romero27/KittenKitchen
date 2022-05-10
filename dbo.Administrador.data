@@ -1,0 +1,5 @@
+﻿INSERT INTO [dbo].[Administrador] ([admin_id], [nombre], [apellidos], [correo_electronico], [contraseña]) VALUES (1, N'Jesús Cristóbal', N'González Gómez', N'jcgonzalez0@alu.ucam.edu', N'1C1B7F1DE298181BD8803DBCC71B3229AC496B11')
+INSERT INTO [dbo].[Administrador] ([admin_id], [nombre], [apellidos], [correo_electronico], [contraseña]) VALUES (2, N'Alejandro', N'Illán Marcos', N'aillan7@alu.ucam.edu', N'26B6AC9E69E51106646ADDA8CE8145896F3FAE42')
+INSERT INTO [dbo].[Administrador] ([admin_id], [nombre], [apellidos], [correo_electronico], [contraseña]) VALUES (3, N'Oscar David', N'Romero Humber', N'oscarromeroh27@alu.ucam.edu', N'2A8F73673122A11FA9F5520ACA2B00A6E0D4A32A')
+INSERT INTO [dbo].[Administrador] ([admin_id], [nombre], [apellidos], [correo_electronico], [contraseña]) VALUES (4, N'Daniel', N'Rosique Egea', N'danielrosiqueegea@gmail.com', N'0D2605ABBCB212060B5672869CB209045ABB61D1')
+INSERT INTO [dbo].[Administrador] ([admin_id], [nombre], [apellidos], [correo_electronico], [contraseña]) VALUES (5, N'José Luis', N'Abellán Miguel', N'jlabellan@ucam.edu', N'0D969AD95B21D679A8FBCE0F51809C619CA37C82')

@@ -1,0 +1,145 @@
+INSERT INTO [dbo].[Receta] ([receta_id], [tiempo_preparacion], [nombre_receta], [descripcion_receta], [url_video]) VALUES (1, CAST(130.00 AS Decimal(9, 2)), N'Arroz con leche', N'Descripción:
+El arroz con leche es el postre por antonomasia de los hogares de toda España y América latina. Es muy fácil de hacer, y con pocos ingredientes. Siguiendo la técnica adecuada, además, lograremos que nos quede mucho más cremoso. Para ello, es importante las cantidades y sus proporciones.
+   ::   Pasos:
+1.- En una olla o cazuela, ponemos la leche, el arroz, las cáscaras de los cítricos y la rama de canela. Calentamos a fuego medio mientras no dejamos de remover
+2.- Cuando esté caliente, pero que no llegue a ebullición, pues la leche pasados los 95-100ºC se quema y coge un regusto muy desagradable, dejamos cocer. Removemos cada cinco minutos, para asegurarnos que el arroz con leche no se pegue y para liberar el almidón. Así nos quedará más cremoso. Recuerda que no debe llegar a hervir a borbotones fuertes en ningún momento
+3.- Pasados unos 45 minutos, cuando el grano esté casi hecho – recuerda remover cada 5 minutos – añadimos el azúcar. Dejamos cocinar 10 minutos más, hasta que el arroz ahora sí que sí, esté bien blando
+4.- Apagamos el fuego y añadimos la mantequilla. Quitamos las cáscaras y la canela en rama y mezclamos bien. Dejamos templar. Sigue mezclando de vez en cuando mientras lo dejes templar, para que no salga costra por la superficie
+5.- Cuando haya templado algo, ponemos el arroz con leche en cuencos individuales. Puedes decorar con un trocito de la rama de canela que usaste para infusionar. Espolvorea encima un poco de canela molida, para darle el toque final.
+', N'https://www.youtube.com/embed/xQsPiAf-t1Q')
+INSERT INTO [dbo].[Receta] ([receta_id], [tiempo_preparacion], [nombre_receta], [descripcion_receta], [url_video]) VALUES (2, CAST(48.00 AS Decimal(9, 2)), N'Macarrones con carne y tomate', N'Descripcion
+Macarrones con carne picada y tomate. Una forma muy fácil y rápida de preparar una deliciosa receta de pasta. Y también barata. Los tendrás listo en cuestión de 30 minutos. ¡Y el resultado será espectacular! Puedes preparar esta receta con otra pasta a tu gusto, como espagueti o tallarines. Sea como sea, probablemente termines untando en pan.
+   ::   Pasos:
+1.- Cocemos los macarrones. Para ello, los introducimos en una cazuela con abundante agua hirviendo. Añadimos un buen puñadito de sal y los cocemos durante unos 12-15 minutos. Hasta que estén al dente. Removemos de vez en cuando, sobre todo al principio, para que no se peguen al fondo de la olla
+2.- Mientras se cocinan, podemos ir preparando la salsa. En una sartén amplia, ponemos a calentar un chorrito de aceite a fuego medio. Después añadimos la cebolla y los ajos picados muy finos. Salpimentamos y removemos con una cuchara de palo mientras cocinamos durante 5 minutos
+3.- Pasado el tiempo, añadimos la carne picada. la salpimentamos y la desmenuzamos con la cuchara de palo para que no queden mazacotes grandes y quede bien suelta. Subimos la fuerza del fuego y la dejamos cocinar hasta que coja algo de color
+4.- Una vez hecho esto, añadimos el tomate frito y espolvoreamos con orégano seco. Mezclamos todos los ingredientes y dejamos cocinar 10 minutos más.
+5.- Cuando los macarrones estén al dente, reservamos uno 150ml del caldo de la cocción en un vaso y los escurrimos del resto del agua
+6.- Cuando tanto los macarrones como la salsa estén cocinados, añadimos los macarrones a la cazuela donde esté la salsa. Añadimos el caldo de la cocción (que potenciará todos los sabores) y lo mezclamos todo bien, mientras cocinamos todo durante un par de minutos
+', N'https://www.youtube.com/embed/PyE3hSnezYY')
+INSERT INTO [dbo].[Receta] ([receta_id], [tiempo_preparacion], [nombre_receta], [descripcion_receta], [url_video]) VALUES (3, CAST(30.00 AS Decimal(9, 2)), N'Nuggets de pollo', N'Descripcion:
+Los Nuggets de pollo caseros, son una especie de mini-hamburguesita de pollo empanada, originaria de Estados Unidos y de una textura y un sabor excepcionales. Seguro que las has probado en algún restaurante de comida rapida. Aquí,vamos a hacer unas caseras que, sin duda, no dejarán indiferente a nadie. Especialmente al público más joven. Como siempre que hacemos algo en casa, te van a quedar mucho mejor que las que probablemente puedas comer en restaurantes de comida rápida.
+   ::   Pasos:
+1.- Ponemos en un bol la carne picada de pollo y salpimentamos. Después, quitamos la corteza a la rebanada de pan de mole y la añadimos al bol junto a la carne picada. Añadimos un chorro de leche. La miga y la leche, serán lo que les de esa cremosidad que queremos, al interior de la nugget de pollo. Añadimos, si lo deseamos, el queso y mezclamos todo con ayuda de la mano o una cuchara, hasta que quede todo bien integrado. Después, se puede dejar reposar unos minutos en el frigorífico para que se compacte la masa.
+2.- Ahora, con la mano, cogemos una pequeña porción de la masa, la aplastamos un poquito, dándole esa forma característica de nugget y la pasamos por harina, huevo y pan rallado (por ese orden).
+3.- Las freímos en abundante aceite de oliva a fuego fuerte. Retiramos y dejamos reposar durante 1 minuto en papel absorbente. Y ¡ya están listas! Un plato de comida rapida hecho en casa, cosa que siempre es de agradecer.
+', N'https://www.youtube.com/embed/krVWbJGiNFU')
+INSERT INTO [dbo].[Receta] ([receta_id], [tiempo_preparacion], [nombre_receta], [descripcion_receta], [url_video]) VALUES (4, CAST(20.00 AS Decimal(9, 2)), N'Sandwich de pollo', N'Descripcion:
+Aquí te voy a enseñar a hacer un sandwich de pollo que me enseñó la mejor maestra culinaria que todos o casi todos podamos tener que,en mi caso, es mi madre. Es muy muy fácil de hacer pero, que da un resultado muy sabroso. Más adelante os enseñaré a hacer también el pan de molde para que, sea 100% casero pero, te puedo asegurar que con cualquier pan,este sandwich quedará impresionante
+   ::   Pasos:
+1.- Lo primero,es tostar el pan. Ponemos a fuego medio una sartén antiadherente con una gota de aceite de oliva y ponemos encima el pan. Cuando se haya tostado una de las caras del pan le damos la vuelta, ponemos sobre la cara ya tostada y caliente la loncha de queso para que se vaya deshaciendo un poco por el calor residual, mientras la otra cara se sigue tostando. Hay que tener en cuenta que,aquí está pensado para poner una loncha de queso por sándwich así que, no habrá que hacer esta operación con todos los panes. Si no solo con la mitad de ellos. Aunque puedes añadir 4 lonchas si quieres y hacerlo con todos los panes.
+2.- Mientras tanto, en otra sartén, vamos salteando con una gota de aceite de oliva el pollo salpimentado y ya cortado en filetes finos de un tamaño que quepan en el pan de sándwich.
+3.- Cuando el pollo y el pan tostado estén hechos, ponemos el pollo en el pan donde hayamos puesto el queso, para que el calor del pollo recién hecho,siga deshaciéndolo. Encima colocamos la lechuga. En la otra rebanada, untamos con salsa Ali Oli o mayonesa y cerramos el sandwich. Podemos servirlo partiéndolo por la mitad de lado a lado o entero, tal y como está.
+', N'https://www.youtube.com/embed/MXoLMFbDxUA')
+INSERT INTO [dbo].[Receta] ([receta_id], [tiempo_preparacion], [nombre_receta], [descripcion_receta], [url_video]) VALUES (5, CAST(45.00 AS Decimal(9, 2)), N'Mugret a la plancha', N'Descripcion:
+Magret de pato a la plancha. El magret, es la pechuga de un ave que ha sido cebada antes de su sacrificio. En este caso de pato. Como resultado se obtiene una «pechuga» muy grasa y mucho más jugosa que la convencional. El magret es una pieza muy cotizada por los gastrónomos. Aquí, veremos cómo preparar esta pieza a la plancha, utilizando unos sencillos trucos para que nos quede perfecta. Como resultado, obtendremos una carne jugosa, rica, blandita y con mucha personalidad.
+   ::   Pasos:
+1.- Para comenzar, y antes de cocinar nada, preparamos el magret. El magret de pato tienes dos partes. Una llena de grasa y otra que es puro magro. Con un cuchillo afilado, hacemos unos cortes en la grasa. Puedes hacerlo con forma de malla (cuadrados) o simplemente líneas rectas y pararelas
+2.- Ahora sí, ponemos en una sartén a fuego fuerte el magret comenzando a cocinar la parte con la grasa. Poco a poco, comenzará a derretirse y a llenarse la sartén con la grasa derretida. Lo mejor que podemos hacer, es ir retirando esta grasa según se vaya cocinando. De momento vamos a cocinar tan sólo un minuto
+3.- Pasado el tiempo le damos la vuelta y cocinamos la parte magra. Dejamos cocinar otro minuto. De momento, lo que queremos hacer es sellar la carne. Pasado el tiempo, retiramos el magret de pato de la sartén y dejamos reposar en un plato. Hasta que se enfríe por completo
+4.- Pasado el tiempo, salpimentamos el magret y lo devolvemos a la sartén. En esta ocasión a fuego más suave. Dejamos cocinar cada cara unos 3 o 4 minutos. Dependiendo del grosor de la carne. Cuando cocines la parte «grasa», ésta seguirá inunando la sartén. Igual que antes, retiramos la grasa derretida pues, la intención es cocinar a la plancha y no confitado en grasa.
+5.- Pasado el tiempo y cuando esté cocinado retirar de la sartén. Cortamos en rodajas de un par de centímetros de grosor y finalmente echar sal gorda. La carne, si queda roja en su interior mucho mejor pues, quedará mucho más jugosa. No obstante si te gusta la carne más hecha, puedes cocinarla más tiempo. Servir junto a una ensalada
+', N'https://www.youtube.com/embed/b0jbLxpW1Vs')
+INSERT INTO [dbo].[Receta] ([receta_id], [tiempo_preparacion], [nombre_receta], [descripcion_receta], [url_video]) VALUES (6, CAST(45.00 AS Decimal(9, 2)), N'Dedos de queso', N'Descripcion:
+Los fingers, dedos o palitos de queso son un aperitivo muy conocido en el restaurante foster’s hollywood. Y por tanto, muy típico americano. Consiste en unos palitos, tamaño dedo, de queso empanados y fritos. Suelen hacerse con algún tipo de queso blando, tipo gouda, mozzarella o emmental, para que se derrita durante la fritura y después se nos deshaga en la boca. ¡Una receta para auténticos amantes del queso!
+   ::   Pasos:
+1.- Lo primero, es cortar el bloque de queso. En cualquier mercado venden queso como emmental, gouda o mozzarella en bloques de 250 o 500g. Lo cortamos con un cuchillo de un tamaño similar al dedo indice.
+2.- Una vez cortado, pasamos los fingers primero, por huevo batido, al cual le hemos echado una pizca de sal. Después por pan rallado, después nuevamente por huevo batido y nuevamente por pan rallado. Con ésto de pasarlo dos veces por huevo y pan rallado, conseguiremos una capa exterior muy crujiente, además de lograr que los fingers de queso se sellen mejor
+3.- Una vez empanados todos, los guardamos en la nevera alrededor de una hora. Que se asiente bien el empanado con los fingers
+4.- Pasado el tiempo, los freímos en abundante aceite, a fuego fuerte. Pasado alrededor de un minuto los retiramos y los colocamos sobre papel abosbente, antes de servirlos.
+', N'https://www.youtube.com/embed/PbcYpZa8uJg')
+INSERT INTO [dbo].[Receta] ([receta_id], [tiempo_preparacion], [nombre_receta], [descripcion_receta], [url_video]) VALUES (7, CAST(35.00 AS Decimal(9, 2)), N'Bolitas de queso', N'Descripcion:
+Las bolitas de queso son un aperitivo muy fácil y rápido de hacer. Tan solo necesitarás unos pocos ingredientes, muy fáciles de conseguir y conseguirás un pequeño bocadito espectacular. Para hacerlas, necesitaremos queso mozzarella. En algunos establecimientos los venden hechos en pequeñas bolas, ideales como porción. Si no lo encuentras así, también puedes emplear una bola entera, cortada en taquitos. No tendrán forma exacta de bolita pero por lo demás, quedará exactamente igual.
+   ::   Pasos:
+1.- Si tenemos la bola entera de mozzarella, la cortamos en tacos de más o menos el mismo tamaño. Si tenemos las perlitas, omitimos este paso
+2.- Ahora, es tan sencillo como empanar cada bolita o porción de queso. La pasamos primero por harina, después por huevo batido, al cual le hemos puesto una pequeña pizca de sal y después por pan rallado
+3.- Para lograr una capa extra de empanado, podemos volver a pasar una vez más la perla por huevo batido y pan rallado. Este paso es totalmente opcional y con él, lograremos una capa exterior más crujiente
+4.- Seguimos empanando todo el queso y lo vamos reservando en un plato. Una vez hecho, lo guardamos en la nevera durante una hora, para que la masa se asiente bien
+5.- Hecho esto, los freímos en abundante aceite a fuego muy fuerte. Freímos durante alrededor de 30 segundos. Lo suficiente como para que la capa exterior tome un color doradito y el queso se caliente. Es importante no dejarlo mucho tiempo porque si no el queso se expandirá al calentarse y las bolitas nos reventarán en el aceiteç
+6.- Retiramos del aceite y dejamos reposar en papel absorbente
+', N'https://www.youtube.com/embed/5qteAjDuYTE')
+INSERT INTO [dbo].[Receta] ([receta_id], [tiempo_preparacion], [nombre_receta], [descripcion_receta], [url_video]) VALUES (8, CAST(70.00 AS Decimal(9, 2)), N'Garbanzos con espinacas', N'Descripcion:
+Garbanzos con espinacas es una de esas recetas completísimas. Especialmente en los días de otoño e invierno, aunque se puede comer durante todo el año. Un plato caliente, nutritivo, lleno de las proteínas de los garbanzos, que pueden alcanzar los 20g por cada 100g de esta legumbre y de la vitamina C y el calcio de las espinacas. ingrediente.
+   ::   Pasos:
+1.- La noche anterior, ponemos los garbanzos en remojo. Y lo hacemos con abundante agua, que los cubra más que de sobra. Al menos con dos dedos por encima ya que los garbanzos crecerán y absorberán bastante agua. Añadimos una cucharadita de bicarbonato o un puñadito de sal y lo dejamos toda la noche
+2.- Al día siguiente, los escurrimos del agua y los introducimos en una olla. Los cubrimos nuevamente con más agua fresca. Lo tampamos y dejamos cocinar alrededor de 2 o 3 horas dependiendo el tipo de garbanzo, hasta que estén blandos. Si utilizas una olla express, su tiempo se reduce, en 30 minutos, más o menos estarán listos.
+3.- Mientras se cocinan, preparamos el sofrito que va a acompañar a nuestros garbanzos con espinacas. En una cazuela ponemos un chorrito de aceite y lo vamos a calentar a fuego muy suave. Cuando esté caliente, añadimos los dientes de ajo bien picados. Dejamos que se cocinen aquí arededor de unos 2 minutos. A continuación, agregamos la cebolla también bien picada y salpimentamos. Removemos todos los ingredientes y dejamos que se cocine unos 10 minutos manteniendo el fuego suave. 
+
+4.- Hecho esto, agregamos las espinacas. Subimos la potencia del fuego y removemos con frecuencia. Cuando la espinaca haya reducido su tamaño, añadimos una cucharadita de pimentón y una pizca de comino molido. Mezclamos todo brevemente y cuando los garbanzos ya estén cocidos, los agregamos junto con el agua de la cocción a esta elaboración. Mezclamos nuevamente, rectificamos de sal, tapamos y dejamos que se cocine unos 20 minutos. Servimos.
+', N'https://www.youtube.com/embed/0_WMnia952A')
+INSERT INTO [dbo].[Receta] ([receta_id], [tiempo_preparacion], [nombre_receta], [descripcion_receta], [url_video]) VALUES (9, CAST(12.00 AS Decimal(9, 2)), N'Sandwich de queso', N'Descripcion:
+Este sándwich de queso fundido es realmente fácil de hacer. Un aperitivo delicioso para acompañar con una buena cerveza, o nuestra bebida favorita. Hacer este sándwich es realmente «coser y cantar» y su resultado, espectacular. Con el queso derritiéndose. Tardaremos mucho menos en comérnoslo que en hacerlo ¡Y eso que este sándwich de queso se prepara en cuestión de 5 minutos!
+   ::   Pasos:
+
+1. Engrasamos una sartén con mantequilla y damos un golpe de calor a las rebanadas
+En una sartén amplia, ponemos un poco de la mantequilla y la calentamos a fuego suave. Cuando la mantequilla esté deshecha, ponemos las dos rebanadas del pan de molde. Dejamos que se cocinen por una de sus caras durante unos 3 minutos, hasta que comiencen a dorarse. Hecho esto, las retiramos del fuego
+2. Montamos y cocinamos el sandwich de queso fundido doble por uno de sus lados
+Después, volvemos a engrasar la sartén con mantequilla. Cuando se funda, colocamos una de las rebanadas, con el lado dorado hacia arriba. Encima, ponemos una loncha de cheddar, las dos de mozzarella y otra de cheddar. Finalmente, lo cerramos con la otra rebanada de pan de molde, con el lado dorado en contacto con el queso. Dejamos que se cocine durante unos 5 minutos, siempre a fuego suave, hasta que se dore por abajo.
+3. Finalmente, cocinamos el sandwich por el otro lado, hasta que esté dorado
+Retiramos momentáneamente el sandwich y engrasamos por última vez la sartén. Le damos la vuelta y volvemos a cocinarlo durante otros 5 minutos por el lado que aun está blanco. Con esto nos aseguramos de que el pan quede crujiente por fuera, y el sandwich, con el queso bien derretido en el interior. Cuando esté dorado, lo retiramos de la sartén y lo servimos de inmediato.
+', N'https://www.youtube.com/embed/BmHdCOP6eq4')
+INSERT INTO [dbo].[Receta] ([receta_id], [tiempo_preparacion], [nombre_receta], [descripcion_receta], [url_video]) VALUES (10, CAST(15.00 AS Decimal(9, 2)), N'Arroz con huevo', N'Descripcion:
+El mejor plato que se puede hacer en un dia de lluvia cuando no hay ganas de concinar. Si duda una de esas recetas que te salvaran la vida cada vez que no tengas ganas ni de salir a la calle
+   ::   Pasos:
+1-	Mete el agua en la cazuela y espera hasta que hierva
+2-	Añade el arroz blanco
+3-	Deja hervir hasta que el agua se evapore por completo
+4-	Cuando se haya evaporado el agua, echa un huevo y remuevelo hasta que se mezcle uniformemente
+', N'https://www.youtube.com/embed/KLk6A5ZbzXQ')
+INSERT INTO [dbo].[Receta] ([receta_id], [tiempo_preparacion], [nombre_receta], [descripcion_receta], [url_video]) VALUES (11, CAST(65.00 AS Decimal(9, 2)), N'Hamburguesa de lentejas', N'Descripción: 
+	Esta receta de hamburguesa de lentejas es ideal para los niños que no comen legumbres o para las familias que sean vegetarianas o veganas. Además de saludables y nutritivas, estas hamburguesas tienen un sabor exquisito que sorprenderá a todos de la familia.
+   ::   Pasos: 
+	1-Poner las lentejas de remojo durante unas 4 o 5 horas.
+	2-Cocer las lentejas en agua caliente con sal y cuando estén tiernas, sacarlas del fuego y colarlas para quitarles todo el líquido.
+	3-Cuando las lentejas estén secas, verterlas en un bol y con la ayuda de un tenedor, batidora o un procesador de alimentos, batir las lentejas hasta conseguir una pasta. 
+	4-En otro bol, mezclar la cebolla y los ajos, la zanahoria, la sal, el perejil y la harina.
+	5-Verter esta mezcla a la pasta de lentejas y mezclar bien para que se forme una masa. 
+	6-Mientras tanto, poner aceite para calentar en una sartén.
+	7-Formar las hamburguesas con la mano. 
+	8-Freír las hamburguesas por ambos lados hasta que tenga un color dorado
+', N'https://www.youtube.com/embed/OHw9iLxPUh4')
+INSERT INTO [dbo].[Receta] ([receta_id], [tiempo_preparacion], [nombre_receta], [descripcion_receta], [url_video]) VALUES (12, CAST(120.00 AS Decimal(9, 2)), N'Tallarines de calabciín con pesto rojo', N'Descripción:
+	Los tallarines de calabacín siempre triunfan y te ayudan a sumar fibra vegetal a la dieta. Combinan bien con cualquier salsa con las que se suele acompañar a la pasta tradicional, pero están buenísimos. 
+	::   Pasos:
+	1- Pon los tomates secos en un cuenco, cúbrelos con agua templada y déjalos en remojo durante unos 15 min. Despunta los calabacines, lávalos y sécalos. Cortarlos primero en láminas finas a lo largo y, después, en tiras de 3 o 4 mm de ancho.
+	2- Limpia la cebolleta retirando las raíces, la primera capa y la parte verde más dura; luego, lávala y sécala. Pela el ajo, también. Escurre los tomates. Retira la piel de las avellanas. Lava el tomillo y separa las hojas. Pica todos los ingredientes y mézclalos en un cuenco. Finalmente, añade el queso y 3 cucharadas de aceite, y remueve el conjunto. Cúbrelo y deja reposar el pesto.
+	3- Escaldar los tallarines de calabacín en agua hirviendo con ½ cucharadita de sal durante un par de minutos. Luego, retíralos y déjalos escurrir en un colador. 
+	', N'https://www.youtube.com/embed/k1bO5bD0ijY')
+INSERT INTO [dbo].[Receta] ([receta_id], [tiempo_preparacion], [nombre_receta], [descripcion_receta], [url_video]) VALUES (13, CAST(40.00 AS Decimal(9, 2)), N'Arroz con tofu encebollado', N'Descripcion:
+	¿Comes tofu a menudo? ¿No? Te invitamos a que lo pruebes en esta receta.   ::   Pasos:
+	1- Trocea el tofu en dados grandes y las verduras en daditos más pequeños.
+	
+	2- Cuece el arroz
+	
+	3- Pon un poco de aceite en una sartén y echa todas las verduras, menos la cebolla, y le déjalas hasta que se mochen. Después, échales el arroz cocido, y remuévelo para mezclarlo.
+	
+	4 En otra sartén pon aceite, echa la cebolla y le déjala pechar. Añade el tofu, y remueve hasta que el tofu coja un poco de color dorado. Añade la salsa de soja con un poco de agua y tápalo hasta que se reduzca la salsa.
+	
+	5- Pon en un cuenco el arroz con verdura y añade por encima el tofu encebollado con un poco de cebollino picado.
+', N'https://www.youtube.com/embed/vM6e-5JpUZk')
+INSERT INTO [dbo].[Receta] ([receta_id], [tiempo_preparacion], [nombre_receta], [descripcion_receta], [url_video]) VALUES (14, CAST(30.00 AS Decimal(9, 2)), N'Cuscús de brócoli con germinados', N'Descripcion:
+	El brócoli no solo se come hervido, también se puede comer crudo como en este receta y así conserva todas sus propiedades.
+   ::   Pasos:
+	1- Lava el brócoli y deja escurrir. Con un cuchillo, ve sacando los arboles y ponlo en un bol. Pela el tomate, el pepino y la cebolla y córtalo en dados. Pela el mango y córtalo en dados.
+	2- Pon a hervir una olla con agua y sal. Junto a la olla, pon un bol con agua e hielo. Cuando esté el agua hirviendo, escalda el brócoli 30 segundos e introduce en el bol con agua helada otros 30. Escurrelo bien.
+	3- Una vez escurrido, ponlo en un bol y añade las verduras cortadas y el mango. Mezcla y añade las hojas de hierbabuena. Añade un chorro de aceite de oliva, sal y un chorro de zumo de limón. Mezcla y sirve.
+', N'https://www.youtube.com/embed/IiiJ2XRXy0M')
+INSERT INTO [dbo].[Receta] ([receta_id], [tiempo_preparacion], [nombre_receta], [descripcion_receta], [url_video]) VALUES (15, CAST(20.00 AS Decimal(9, 2)), N'Espirales con calabacín y champiñones', N'Descripción:
+Las fruterías en esta época del año estan llenas de color. Las gran variedad de frutas, hortalizas y verduras que encontramos nos dan pie para elaborar numerosas recetas. Recetas rápidas y saludables como estas de espirales vegetales, calabacín y champiñones.
+   ::   Pasos:
+1- Comenzamos pelando y cortando la cebolla en dados. Al igual que el resto de ingredientes, la picamos.
+2- A continuación, lavamos el calabacín y los champiñones y los cortamos también en trozos. 
+3- Cocemos la pasta en una cazuela con abundante agua.
+4- Al mismo tiempo, ponemos 3 cucharadas de aceite a calentar en una sartén y sofreímos la cebolla unos minutos. añadimos el calabacín y finalmente, los champiñones.
+5- Incorporamos el pimentón, salpimentamos y removemos para que se incorporen los sabores.
+6- Una vez hecha la pasta y escurrida la combinamos con nuestro salteado y servimos caliente.
+', N'https://www.youtube.com/embed/6g0R6TbbCPM')
+INSERT INTO [dbo].[Receta] ([receta_id], [tiempo_preparacion], [nombre_receta], [descripcion_receta], [url_video]) VALUES (16, CAST(20.00 AS Decimal(9, 2)), N'Ensalada de esparragos y requesón', N'Descripción:
+Como ves en esta ensalada de espárragos, tomatitos y requesón, las ensaladas no siempre tienen que llevar lechuga u otras hojas verdes.
+   ::   Pasos:
+1- Limpiar los espárragos. 
+2- Poner agua a hervir y cocer.
+3- Interrumpir la cocción. 
+4- Preparar el resto de ingredientes. 
+5- Hacer la vinagreta. 
+6- Emplatar y servir. ', N'https://www.youtube.com/embed/SV9lUPQalHY')
