@@ -1,0 +1,202 @@
+C:\Users\Jesús\source\repos\KitchenKitten\KitchenKitten\bin\Debug\KitchenKitten.exe.config
+C:\Users\Jesús\source\repos\KitchenKitten\KitchenKitten\bin\Debug\KitchenKitten.exe
+C:\Users\Jesús\source\repos\KitchenKitten\KitchenKitten\bin\Debug\KitchenKitten.pdb
+C:\Users\Jesús\source\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csprojAssemblyReference.cache
+C:\Users\Jesús\source\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Properties.Resources.resources
+C:\Users\Jesús\source\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csproj.GenerateResource.cache
+C:\Users\Jesús\source\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csproj.CoreCompileInputs.cache
+C:\Users\Jesús\source\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.exe
+C:\Users\Jesús\source\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.pdb
+C:\Users\Jesús\source\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.FormInicio.resources
+C:\Users\Jesús\source\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Login.resources
+C:\Users\Jesús\source\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Registrar.resources
+C:\Users\Jesús\source\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.MenuUsuario.resources
+C:\Users\Jesús\source\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminUsuario.resources
+C:\Users\Jesús\source\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminIngrediente.resources
+C:\Users\Jesús\source\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminIngredientetienereceta.resources
+C:\Users\Jesús\source\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminReceta.resources
+C:\Users\Jesús\source\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminValoracion.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\bin\Debug\KitchenKitten.exe.config
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\bin\Debug\KitchenKitten.exe
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\bin\Debug\KitchenKitten.pdb
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csprojAssemblyReference.cache
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminIngrediente.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminIngredientetienereceta.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminReceta.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminUsuario.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminValoracion.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.FormInicio.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Login.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.MenuUsuario.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Properties.Resources.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Registrar.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csproj.GenerateResource.cache
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csproj.CoreCompileInputs.cache
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.exe
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.pdb
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Pago.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Receta.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.VideoReceta.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Valoracion.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.MenuAdmin.resources
+C:\Users\Alejandro\Desktop\KitchenKitten\KitchenKitten\bin\Debug\KitchenKitten.exe.config
+C:\Users\Alejandro\Desktop\KitchenKitten\KitchenKitten\bin\Debug\KitchenKitten.exe
+C:\Users\Alejandro\Desktop\KitchenKitten\KitchenKitten\bin\Debug\KitchenKitten.pdb
+C:\Users\Alejandro\Desktop\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminIngrediente.resources
+C:\Users\Alejandro\Desktop\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminIngredientetienereceta.resources
+C:\Users\Alejandro\Desktop\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminReceta.resources
+C:\Users\Alejandro\Desktop\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminUsuario.resources
+C:\Users\Alejandro\Desktop\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminValoracion.resources
+C:\Users\Alejandro\Desktop\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.FormInicio.resources
+C:\Users\Alejandro\Desktop\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Login.resources
+C:\Users\Alejandro\Desktop\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.MenuAdmin.resources
+C:\Users\Alejandro\Desktop\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.MenuUsuario.resources
+C:\Users\Alejandro\Desktop\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Pago.resources
+C:\Users\Alejandro\Desktop\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Properties.Resources.resources
+C:\Users\Alejandro\Desktop\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Receta.resources
+C:\Users\Alejandro\Desktop\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Registrar.resources
+C:\Users\Alejandro\Desktop\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Valoracion.resources
+C:\Users\Alejandro\Desktop\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.VideoReceta.resources
+C:\Users\Alejandro\Desktop\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csproj.GenerateResource.cache
+C:\Users\Alejandro\Desktop\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.exe
+C:\Users\Alejandro\Desktop\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.pdb
+C:\Users\Alejandro\Desktop\Nueva carpeta\KitchenKitten\KitchenKitten\bin\Debug\KitchenKitten.exe.config
+C:\Users\Alejandro\Desktop\Nueva carpeta\KitchenKitten\KitchenKitten\bin\Debug\KitchenKitten.exe
+C:\Users\Alejandro\Desktop\Nueva carpeta\KitchenKitten\KitchenKitten\bin\Debug\KitchenKitten.pdb
+C:\Users\Alejandro\Desktop\Nueva carpeta\KitchenKitten\KitchenKitten\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alejandro\Desktop\Nueva carpeta\KitchenKitten\KitchenKitten\bin\Debug\itextsharp.dll
+C:\Users\Alejandro\Desktop\Nueva carpeta\KitchenKitten\KitchenKitten\bin\Debug\itextsharp.xml
+C:\Users\Alejandro\Desktop\Nueva carpeta\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\Nueva carpeta\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminIngrediente.resources
+C:\Users\Alejandro\Desktop\Nueva carpeta\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminIngredientetienereceta.resources
+C:\Users\Alejandro\Desktop\Nueva carpeta\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminReceta.resources
+C:\Users\Alejandro\Desktop\Nueva carpeta\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminUsuario.resources
+C:\Users\Alejandro\Desktop\Nueva carpeta\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminValoracion.resources
+C:\Users\Alejandro\Desktop\Nueva carpeta\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.FormInicio.resources
+C:\Users\Alejandro\Desktop\Nueva carpeta\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Login.resources
+C:\Users\Alejandro\Desktop\Nueva carpeta\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.MenuAdmin.resources
+C:\Users\Alejandro\Desktop\Nueva carpeta\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.MenuUsuario.resources
+C:\Users\Alejandro\Desktop\Nueva carpeta\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Pago.resources
+C:\Users\Alejandro\Desktop\Nueva carpeta\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Properties.Resources.resources
+C:\Users\Alejandro\Desktop\Nueva carpeta\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Receta.resources
+C:\Users\Alejandro\Desktop\Nueva carpeta\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Registrar.resources
+C:\Users\Alejandro\Desktop\Nueva carpeta\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Valoracion.resources
+C:\Users\Alejandro\Desktop\Nueva carpeta\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.VideoReceta.resources
+C:\Users\Alejandro\Desktop\Nueva carpeta\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csproj.GenerateResource.cache
+C:\Users\Alejandro\Desktop\Nueva carpeta\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Nueva carpeta\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csproj.CopyComplete
+C:\Users\Alejandro\Desktop\Nueva carpeta\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.exe
+C:\Users\Alejandro\Desktop\Nueva carpeta\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.pdb
+D:\Libros informática\2º CARERERA JESUS C\2º SEMESTRE\PVA\PROYECTO FINAL MIO\KitchenKitten\KitchenKitten\bin\Debug\KitchenKitten.exe.config
+D:\Libros informática\2º CARERERA JESUS C\2º SEMESTRE\PVA\PROYECTO FINAL MIO\KitchenKitten\KitchenKitten\bin\Debug\KitchenKitten.exe
+D:\Libros informática\2º CARERERA JESUS C\2º SEMESTRE\PVA\PROYECTO FINAL MIO\KitchenKitten\KitchenKitten\bin\Debug\KitchenKitten.pdb
+D:\Libros informática\2º CARERERA JESUS C\2º SEMESTRE\PVA\PROYECTO FINAL MIO\KitchenKitten\KitchenKitten\bin\Debug\BouncyCastle.Crypto.dll
+D:\Libros informática\2º CARERERA JESUS C\2º SEMESTRE\PVA\PROYECTO FINAL MIO\KitchenKitten\KitchenKitten\bin\Debug\itextsharp.dll
+D:\Libros informática\2º CARERERA JESUS C\2º SEMESTRE\PVA\PROYECTO FINAL MIO\KitchenKitten\KitchenKitten\bin\Debug\itextsharp.xml
+D:\Libros informática\2º CARERERA JESUS C\2º SEMESTRE\PVA\PROYECTO FINAL MIO\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csprojAssemblyReference.cache
+D:\Libros informática\2º CARERERA JESUS C\2º SEMESTRE\PVA\PROYECTO FINAL MIO\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminIngrediente.resources
+D:\Libros informática\2º CARERERA JESUS C\2º SEMESTRE\PVA\PROYECTO FINAL MIO\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminIngredientetienereceta.resources
+D:\Libros informática\2º CARERERA JESUS C\2º SEMESTRE\PVA\PROYECTO FINAL MIO\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminReceta.resources
+D:\Libros informática\2º CARERERA JESUS C\2º SEMESTRE\PVA\PROYECTO FINAL MIO\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminUsuario.resources
+D:\Libros informática\2º CARERERA JESUS C\2º SEMESTRE\PVA\PROYECTO FINAL MIO\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminValoracion.resources
+D:\Libros informática\2º CARERERA JESUS C\2º SEMESTRE\PVA\PROYECTO FINAL MIO\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.FormInicio.resources
+D:\Libros informática\2º CARERERA JESUS C\2º SEMESTRE\PVA\PROYECTO FINAL MIO\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Login.resources
+D:\Libros informática\2º CARERERA JESUS C\2º SEMESTRE\PVA\PROYECTO FINAL MIO\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.MenuAdmin.resources
+D:\Libros informática\2º CARERERA JESUS C\2º SEMESTRE\PVA\PROYECTO FINAL MIO\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.MenuUsuario.resources
+D:\Libros informática\2º CARERERA JESUS C\2º SEMESTRE\PVA\PROYECTO FINAL MIO\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Pago.resources
+D:\Libros informática\2º CARERERA JESUS C\2º SEMESTRE\PVA\PROYECTO FINAL MIO\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Properties.Resources.resources
+D:\Libros informática\2º CARERERA JESUS C\2º SEMESTRE\PVA\PROYECTO FINAL MIO\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Receta.resources
+D:\Libros informática\2º CARERERA JESUS C\2º SEMESTRE\PVA\PROYECTO FINAL MIO\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Registrar.resources
+D:\Libros informática\2º CARERERA JESUS C\2º SEMESTRE\PVA\PROYECTO FINAL MIO\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Valoracion.resources
+D:\Libros informática\2º CARERERA JESUS C\2º SEMESTRE\PVA\PROYECTO FINAL MIO\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.VideoReceta.resources
+D:\Libros informática\2º CARERERA JESUS C\2º SEMESTRE\PVA\PROYECTO FINAL MIO\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csproj.GenerateResource.cache
+D:\Libros informática\2º CARERERA JESUS C\2º SEMESTRE\PVA\PROYECTO FINAL MIO\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csproj.CoreCompileInputs.cache
+D:\Libros informática\2º CARERERA JESUS C\2º SEMESTRE\PVA\PROYECTO FINAL MIO\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csproj.CopyComplete
+D:\Libros informática\2º CARERERA JESUS C\2º SEMESTRE\PVA\PROYECTO FINAL MIO\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.exe
+D:\Libros informática\2º CARERERA JESUS C\2º SEMESTRE\PVA\PROYECTO FINAL MIO\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.pdb
+C:\Users\Alejandro\Desktop\TRabjo final pva con parte, oscar,jesus y alejandro\KitchenKitten\KitchenKitten\bin\Debug\KitchenKitten.exe.config
+C:\Users\Alejandro\Desktop\TRabjo final pva con parte, oscar,jesus y alejandro\KitchenKitten\KitchenKitten\bin\Debug\KitchenKitten.exe
+C:\Users\Alejandro\Desktop\TRabjo final pva con parte, oscar,jesus y alejandro\KitchenKitten\KitchenKitten\bin\Debug\KitchenKitten.pdb
+C:\Users\Alejandro\Desktop\TRabjo final pva con parte, oscar,jesus y alejandro\KitchenKitten\KitchenKitten\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alejandro\Desktop\TRabjo final pva con parte, oscar,jesus y alejandro\KitchenKitten\KitchenKitten\bin\Debug\itextsharp.dll
+C:\Users\Alejandro\Desktop\TRabjo final pva con parte, oscar,jesus y alejandro\KitchenKitten\KitchenKitten\bin\Debug\itextsharp.xml
+C:\Users\Alejandro\Desktop\TRabjo final pva con parte, oscar,jesus y alejandro\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\TRabjo final pva con parte, oscar,jesus y alejandro\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminIngrediente.resources
+C:\Users\Alejandro\Desktop\TRabjo final pva con parte, oscar,jesus y alejandro\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminIngredientetienereceta.resources
+C:\Users\Alejandro\Desktop\TRabjo final pva con parte, oscar,jesus y alejandro\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminReceta.resources
+C:\Users\Alejandro\Desktop\TRabjo final pva con parte, oscar,jesus y alejandro\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminUsuario.resources
+C:\Users\Alejandro\Desktop\TRabjo final pva con parte, oscar,jesus y alejandro\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminValoracion.resources
+C:\Users\Alejandro\Desktop\TRabjo final pva con parte, oscar,jesus y alejandro\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.FormInicio.resources
+C:\Users\Alejandro\Desktop\TRabjo final pva con parte, oscar,jesus y alejandro\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Login.resources
+C:\Users\Alejandro\Desktop\TRabjo final pva con parte, oscar,jesus y alejandro\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.MenuAdmin.resources
+C:\Users\Alejandro\Desktop\TRabjo final pva con parte, oscar,jesus y alejandro\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.MenuUsuario.resources
+C:\Users\Alejandro\Desktop\TRabjo final pva con parte, oscar,jesus y alejandro\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Pago.resources
+C:\Users\Alejandro\Desktop\TRabjo final pva con parte, oscar,jesus y alejandro\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Properties.Resources.resources
+C:\Users\Alejandro\Desktop\TRabjo final pva con parte, oscar,jesus y alejandro\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Receta.resources
+C:\Users\Alejandro\Desktop\TRabjo final pva con parte, oscar,jesus y alejandro\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Registrar.resources
+C:\Users\Alejandro\Desktop\TRabjo final pva con parte, oscar,jesus y alejandro\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Valoracion.resources
+C:\Users\Alejandro\Desktop\TRabjo final pva con parte, oscar,jesus y alejandro\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.VideoReceta.resources
+C:\Users\Alejandro\Desktop\TRabjo final pva con parte, oscar,jesus y alejandro\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csproj.GenerateResource.cache
+C:\Users\Alejandro\Desktop\TRabjo final pva con parte, oscar,jesus y alejandro\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\TRabjo final pva con parte, oscar,jesus y alejandro\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csproj.CopyComplete
+C:\Users\Alejandro\Desktop\TRabjo final pva con parte, oscar,jesus y alejandro\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.exe
+C:\Users\Alejandro\Desktop\TRabjo final pva con parte, oscar,jesus y alejandro\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.pdb
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\bin\Debug\KitchenKitten.exe.config
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\bin\Debug\KitchenKitten.exe
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\bin\Debug\KitchenKitten.pdb
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\bin\Debug\BouncyCastle.Crypto.dll
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\bin\Debug\itextsharp.dll
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\bin\Debug\itextsharp.xml
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csprojAssemblyReference.cache
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminIngrediente.resources
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminIngredientetienereceta.resources
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminReceta.resources
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminUsuario.resources
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminValoracion.resources
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.FormInicio.resources
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Login.resources
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.MenuAdmin.resources
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.MenuUsuario.resources
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Pago.resources
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Properties.Resources.resources
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Receta.resources
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Registrar.resources
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Valoracion.resources
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.VideoReceta.resources
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csproj.GenerateResource.cache
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csproj.CoreCompileInputs.cache
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csproj.CopyComplete
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.exe
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.pdb
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.CargarHistórico.resources
+E:\SrcVisualEstudio\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.ImprimirPDF.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\KitchenKitten\bin\Debug\KitchenKitten.exe.config
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\KitchenKitten\bin\Debug\KitchenKitten.exe
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\KitchenKitten\bin\Debug\KitchenKitten.pdb
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\KitchenKitten\bin\Debug\itextsharp.xml
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csprojAssemblyReference.cache
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminIngrediente.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminIngredientetienereceta.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminReceta.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminUsuario.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.AdminValoracion.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.CargarHistórico.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.FormInicio.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.ImprimirPDF.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Login.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.MenuAdmin.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.MenuUsuario.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Pago.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Properties.Resources.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Receta.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Registrar.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.Valoracion.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.VideoReceta.resources
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csproj.GenerateResource.cache
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csproj.CoreCompileInputs.cache
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.csproj.CopyComplete
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.exe
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.pdb
+D:\Visual Studio\repos\KitchenKitten\KitchenKitten\KitchenKitten\obj\Debug\KitchenKitten.TyC.resources
